@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM ghcr.io/colander/hsp-mqtt-bridge:main AS hsp
+FROM ghcr.io/colander/hsp-mqtt-bridge:latest AS hsp
 
 FROM $BUILD_FROM
 
