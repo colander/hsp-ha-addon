@@ -1,6 +1,6 @@
 name: "Haas+Sohn Pellet Stove"
 description: "Add a Haas+Sohn Pellet Stove to your Homeassistant"
-version: "1.0.1"
+version: "1.0.1b"
 slug: "hsp_mqtt"
 init: false
 arch:
