@@ -7,6 +7,8 @@ Base of this add-on is my other repository: https://github.com/dwyschka/hsp-mqtt
 Its possible to control your Haas+Sohn pelletstove over MQTT 
 
 ### Changelog 
+#### v1.0.1c
+- Fixed some things
 #### v1.0.1b
 - Added Room Mode, Eco Mode, Forward Flow Temp and Heating Curve
 #### v1.0.1
