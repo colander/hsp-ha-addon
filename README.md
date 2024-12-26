@@ -6,7 +6,8 @@
 Base of this add-on is my other repository: https://github.com/dwyschka/hsp-mqtt-bridge. 
 Its possible to control your Haas+Sohn pelletstove over MQTT 
 
-### Changelog 
+### Changelog
+#### v1.0.1d
 #### v1.0.1c
 - Fixed temperature control
 #### v1.0.1b
